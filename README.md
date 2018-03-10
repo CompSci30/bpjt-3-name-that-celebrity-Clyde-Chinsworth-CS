@@ -1,3 +1,4 @@
 # BPJT-Lesson-3-Name-That-Celebrity
-Assignment instructions: https://drive.google.com/file/d/1s6VcKTV8NUfNfsZePXcRBmNRuUhzP4ZC/view?usp=sharing
-BPJT (whole book): https://drive.google.com/drive/folders/1sD7uRnz7DKqpYW2hYTRV8c3kPjAMTT0a?usp=sharing
+Complete the _Name That Celebrity_ Assignment in [Lesson 3](https://drive.google.com/file/d/1s6VcKTV8NUfNfsZePXcRBmNRuUhzP4ZC/view?usp=sharing) in [BPJT](https://drive.google.com/file/d/1khkhu3q0Rbj6VumUkwz1lBz6oSWMF_XH/view?usp=sharing). 
+
+
