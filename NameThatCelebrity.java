@@ -10,6 +10,6 @@ public class NameThatCelebrity
 		
  		System.out.println("Allan Alda>>>" + s1.substring(2, 6);
 		System.out.println("John Wayne>>>" + s2.substring(2, 6);
-		
+		System.out.println("Gregory Peck>>>" + s3.substring(2, 8);
 	}
 }
