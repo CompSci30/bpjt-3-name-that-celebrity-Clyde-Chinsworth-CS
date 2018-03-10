@@ -8,7 +8,8 @@ public class NameThatCelebrity
 		String s2 = "John Wayne";
 		String s3 = "Gregory Peck";
 		
-		System.out.println("Allan Alda>>>" + s1.substring(2, 6);
-			
+ 		System.out.println("Allan Alda>>>" + s1.substring(2, 6);
+		System.out.println("John Wayne>>>" + s2.substring(2, 6);
+		
 	}
 }
